@@ -4,7 +4,7 @@
 Taif is a project designed to provide comprehensive support for families with children on the Autism Spectrum Disorder (ASD). The platform addresses key challenges such as delayed diagnoses, lack of awareness, and difficulty in accessing appropriate resources.  
 
 Our primary goal is to empower families by offering:  
-- AI-driven early diagnosis tools to identify autism signs at an early stage.  
+- AI-driven early screening tools to identify autism signs at an early stage.  
 - An organized calendar system to manage appointments and schedules efficiently.  
 - Educational resources and a support network to raise awareness and foster connections between families and specialists.  
 
