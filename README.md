@@ -13,7 +13,7 @@ Aligned with Saudi Arabia’s Vision 2030, Taif leverages innovative technologie
 ## Technology  
 The Taif project leverages a wide range of modern technologies to deliver its features efficiently:  
 - Programming Language: Python  
-- Frameworks and Libraries: Flutter, LangChain  
+- Frameworks and Libraries: Flutter  
 - Backend Services: Firebase  
 - Collaboration Tools: GitHub, Jira  
 - Design Tools: Figma  
