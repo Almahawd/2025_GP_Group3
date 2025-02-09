@@ -1,3 +1,4 @@
+
 # Taif  
 
 ## Introduction  
@@ -6,7 +7,8 @@ Taif is a project designed to provide comprehensive support for families with ch
 Our primary goal is to empower families by offering:  
 - AI-driven early screening tools to identify autism signs at an early stage.  
 - An organized calendar system to manage appointments and schedules efficiently.  
-- Chatbot for early screening and educational tips.  
+- Chatbot for educational tips.
+- A supportive community platform where families can connect, share experiences, and support each other.
 
 Aligned with Saudi Arabia’s Vision 2030, Taif leverages innovative technologies to enhance healthcare accessibility and create inclusive support services for the autism community.  
 
